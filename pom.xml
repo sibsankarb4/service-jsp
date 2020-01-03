@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.openshift</groupId>
-	<artifactId>Service-2</artifactId>
+	<artifactId>Service-jsp</artifactId>
 	<version>v1</version>
 	<packaging>war</packaging>
-	<name>Service-2</name>
-	<description>Demo project Service-2 Spring Boot deploying in openshift</description>
+	<name>Service-jsp</name>
+	<description>Demo project Service jsp Spring Boot deploying in openshift</description>
 
 	<properties>
 	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
